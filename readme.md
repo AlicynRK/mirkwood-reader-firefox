@@ -13,4 +13,4 @@ Due to security limitations in Firefox, this extension cannot be added permanent
 
 The extension should then appear with its associated metadata in a table-like format under "Temporary Extensions". Keep in mind that you will have to reload this extension with these same instructions every time you open Firefox.
 
-You can now navigate to mirkwood (or refresh the page if it's already open) and select the Mirkwood Reader Extension under the Extensions pop-up menu to toggle it on or off!
+You can now navigate to mirkwood (or refresh the page if it's already open) and select the Mirkwood Reader Extension under the Extensions pop-up menu to toggle it on or off! **NOTE: You may have to select the extension more than once to turn it on the first time!**
