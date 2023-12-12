@@ -9,6 +9,11 @@
     "48": "img/icon-48.png",
     "128": "img/icon-128.png"
   },
+  "browser_specific_settings": {
+      "gecko": {
+        "id": "mirkwoodreaderfirefox@github.com"
+      }
+  },
   "web_accessible_resources": [
     {
       "resources": [ "img/icon.svg"],
@@ -38,5 +43,5 @@
   "background": {
     "service_worker": "js/background.js"
   },
-  "permissions": ["activeTab", "scripting", "management", "favicon"]
+  "permissions": ["activeTab", "scripting", "management"]
 }
