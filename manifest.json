@@ -41,7 +41,7 @@
     "default_title": "Reskin Mirkwood"
   },
   "background": {
-    "service_worker": "js/background.js"
+    "scripts": ["js/background.js"]
   },
   "permissions": ["activeTab", "scripting", "management"]
 }
